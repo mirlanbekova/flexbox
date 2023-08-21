@@ -1,0 +1,45 @@
+.flex{
+    width: 100%;
+    height: 500px;
+    background: yellowgreen;
+    display: flex;
+
+    /*JUSTIFY content*/
+    /* justify-content: flex-end;
+    justify-content: center;
+    justify-content: space-between;
+    justify-content: space-around; */
+
+    /* aling-items*/
+    /* align-items: flex-end;
+    align-items: center;
+    align-items: flex-start; */
+
+    /*flex-direction*/
+    /* flex-direction: column;
+    flex-direction: column-reverse;
+    flex-direction: row;
+    flex-direction: row-reverse; */
+
+     flex-wrap: wrap;    
+     flex-wrap: wrap-reverse;                                  
+   
+
+
+}
+
+  .block{
+    background: red;
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+}
+.block1{
+background: purple;
+width: 100px;
+height: 100px;
+margin: 10px;
+}
+
+
+/*FLEX box-display: flex;*/
